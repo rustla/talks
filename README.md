@@ -11,6 +11,7 @@ A place for talks I've delivered at community events or conferences
 * Presented at [BSides Perth](https://bsidesperth.com.au) 18 Sept 2021
 * Summary: Introduction to App Control and common misconfigurations that may be abused for bypasses
 * [Slides](SomeShallPass.pdf)
+* [AppLocker Playground Repo](https://github.com/rustla/AppLockerLab) - AppLocker policy used in presenation
 
 ## Do You Want to Build an AD Lab?
 * Presented at SecTalks Perth April 2022
