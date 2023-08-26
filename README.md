@@ -13,6 +13,6 @@ A place for talks I've delivered at community events or conferences
 * [Slides](SomeShallPass.pdf)
 
 ## Do You Want to Build an AD Lab?
-* Presented at SecTalks Perth sometime in 2022
+* Presented at SecTalks Perth April 2022
 * Summary: Overview of ways to build labs (infra as code, snapshot based, cloud snapshot based) and populate using BadBlood
 * [Slides](DoYouWantToBuildAnADLab.pdf) - Not sure if the community edition of the cloud lab provider is still a thing or not, YMMV
